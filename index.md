@@ -1,8 +1,11 @@
 ---
-title: Inici
+title: Receptes
 layout: home
 nav_order: 1
+has_children: true
 ---
+
+# Receptes
 
 Petites receptes de codi Pyhton per a la matèria de Programació en Batxillerat a l'[Institut Icària de Barcelona](<http://www.instituticaria.cat>).
 
