@@ -1,5 +1,6 @@
 ---
 title: Sortida per terminal
+layout: default
 ---
 
 # Sortida per terminal
