@@ -1,3 +1,7 @@
+---
+title: Sortida per terminal
+---
+
 # Sortida per terminal
 
 Sortida senzilla per terminal:
