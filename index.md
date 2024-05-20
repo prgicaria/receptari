@@ -8,4 +8,7 @@ Petites receptes de codi Pyhton per a la matèria de Programació en Batxillerat
 
 No hi ha explicacions, només la recepta.
 
+1. Índex
+{:toc}
+
 ![Institut Icària Barcelona](imatges/Icaria.png)
