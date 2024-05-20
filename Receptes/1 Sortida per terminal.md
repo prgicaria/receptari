@@ -17,6 +17,8 @@ Sortida amb format del valor d'una variable:
 print(f"Missatge que es mostra, {variable}")
 ```
 
+## Sortida amb format decimal
+
 Sortida amb format d'una variable amb decimals. S'indica el nombre de decimals a mostrar (en l'exemple 4 decimals):
 
 ```python
