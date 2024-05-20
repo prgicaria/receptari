@@ -1,9 +1,10 @@
 ---
 title: Entrada per teclat
 layout: default
+nav_order: 2
 ---
 
-# 2 Entrada per teclat
+# Entrada per teclat
 
 ## Entrada bàsica
 

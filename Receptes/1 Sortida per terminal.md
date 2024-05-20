@@ -1,4 +1,11 @@
-# 1 Sortida per terminal
+---
+title: Entrada per teclat
+layout: default
+nav_order: 1
+parent: Receptes
+---
+
+# Sortida per terminal
 
 Sortida senzilla de text per terminal:
 
