@@ -2,6 +2,7 @@
 title: Entrada per teclat
 layout: default
 nav_order: 2
+parent: Receptes
 ---
 
 # Entrada per teclat

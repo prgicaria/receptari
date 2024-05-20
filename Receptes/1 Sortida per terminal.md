@@ -1,5 +1,5 @@
 ---
-title: Entrada per teclat
+title: Sortida per terminal
 layout: default
 nav_order: 1
 parent: Receptes
