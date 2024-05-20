@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Programació Icària. Receptari Pyton
+description: Petites receptes de codi en Pyhton per a la matèria Programació de 1r de batxillerat a l'institut Icària de Barcelona.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://prgicaria.github.io/receptari/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
