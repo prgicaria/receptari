@@ -3,6 +3,8 @@ description: Petites receptes de codi en Pyhton per a la matèria Programació d
 theme: just-the-docs
 
 url: https://prgicaria.github.io/receptari/
+logo: "/imatges/Icaria.png"
+favicon_ico: "/imatges/favicon.ico"
 
 aux_links:
   GitHub Repositori: https://github.com/prgicaria/receptari
