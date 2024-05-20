@@ -1,8 +1,3 @@
----
-title: Sortida per terminal
-layout: default
----
-
 # 1 Sortida per terminal
 
 Sortida senzilla de text per terminal:
