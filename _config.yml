@@ -7,11 +7,11 @@ url: https://prgicaria.github.io/receptari/
 favicon_ico: "/imatges/favicon.ico"
 
 aux_links:
-  GitHub Repositori: https://github.com/prgicaria/receptari
+  Repositori GitHub : https://github.com/prgicaria/receptari
 
 # External navigation links
 nav_external_links:
-  - title: Curs de programació al Moodle de l'institut Icària
+  - title: Curs de programació al Moodle de l'Institut Icària
     url: https://educaciodigital.cat/iesicaria/moodle/course/view.php?id=2705
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false

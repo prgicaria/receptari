@@ -9,13 +9,11 @@ Sortida senzilla de text per terminal:
 
 ```python
 print("Missatge que es mostra per pantalla")
-print(variable)
 ```
 
-Sortida senzilla d'una variableper terminal:
+Sortida senzilla d'una variable per terminal:
 
 ```python
-print("Missatge que es mostra per pantalla")
 print(variable)
 ```
 
