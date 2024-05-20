@@ -1,7 +1,7 @@
 ---
 title: Capçalera de programa
 layout: default
-nav_order: 2
+nav_order: 3
 parent: Receptes
 ---
 
