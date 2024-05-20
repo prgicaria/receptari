@@ -2,9 +2,7 @@ title: PRG Icària. Receptari Python
 description: Petites receptes de codi en Pyhton per a la matèria Programació de 1r de batxillerat a l'institut Icària de Barcelona.
 # theme: just-the-docs
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal
 
 url: https://prgicaria.github.io/receptari/
 # logo: "/imatges/Icaria.png"
