@@ -3,7 +3,7 @@ title: Entrada per teclat
 layout: default
 ---
 
-# Entrada per teclat
+# 2 Entrada per teclat
 
 ## Entrada bàsica
 

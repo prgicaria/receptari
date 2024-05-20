@@ -3,7 +3,7 @@ title: Sortida per terminal
 layout: default
 ---
 
-# Sortida per terminal
+# 1 Sortida per terminal
 
 Sortida senzilla de text per terminal:
 
