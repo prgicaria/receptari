@@ -19,13 +19,6 @@ text = input("Missatge que es mostra en pantalla")
 
 Entrada de nombres enters. Primer es fa l'entrada en forma de text i després es converteix a enter:
 
-```python
-text = input("Missatge que es mostra en pantalla")
-valor = int(text)
-```
-
-La mateixa entrada, però en versió reduïda:
-
 ```python  
 valor = int(input("Missatge que es mostra en pantalla"))
 ```
@@ -39,10 +32,6 @@ valor = float(input("Missatge que es mostra en pantalla"))
 ## Entrada d'una llista i conversió a nombres
 
 Entrada d'una llista de nombres amb decimals separats per comes:
-
-1. Primer es fa una entrada de text.
-2. En segon lloc, es separa el text per les comes.
-3. I finalment, es converteix el text a nombre.
 
 ```python
 entrada = input("Introduïu una mostra de números, separats per comes: ")
@@ -58,7 +47,8 @@ Es demana l'entrada d'un nombre i envia el nombre entrat a la funció *afegir*. 
 num = ""
 while num != ".":
     num = input("Entra un valor, utilitza un . per acabar: ")
-    afegir(num)
+    
+    # Afegir codi a repetir
 ```
 
 ## *NOTA Important!*
