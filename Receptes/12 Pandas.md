@@ -10,6 +10,8 @@ toc: true
 
 # Pandas
 
+{% toc %}
+
 ## Importació
 
 ```python

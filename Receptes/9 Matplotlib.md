@@ -12,6 +12,8 @@ toc: true
 
 ![Elasticitat](imatges/matplotlib.png)
 
+{% toc %}
+
 ## 0 Importar la biblioteca
 
 ```python

@@ -18,6 +18,8 @@ Importació:
 import numpy as np
 ```
 
+{% toc %}
+
 ## Arranjaments, *Array*
 
 Arrays d'una i dues dimensions:
