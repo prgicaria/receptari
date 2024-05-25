@@ -18,9 +18,8 @@ Importació:
 import numpy as np
 ```
 
-{{toc}}
-
 ## Arranjaments, *Array*
+{:toc}
 
 Arrays d'una i dues dimensions:
 
