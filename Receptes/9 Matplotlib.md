@@ -11,6 +11,7 @@ date: 2024/5/25
 
 ![Elasticitat](imatges/matplotlib.png)
 
+1. Índex
 {:toc}
 
 ## 0 Importar la biblioteca

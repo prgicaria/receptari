@@ -13,7 +13,6 @@ toc: true
 Llibreria matemàtica, només treballa amb valors numèrics.
 
 1. Índex
-
 {:toc}
 
 ## Importació

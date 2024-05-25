@@ -10,6 +10,7 @@ toc: true
 
 # Pandas
 
+1. Índex
 {:toc}
 
 ## Importació
