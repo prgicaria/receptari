@@ -20,8 +20,8 @@ Llegir fitxer i utilitzar les dades directament
 suma = 0
 nom_fitxer_entrada = "notes.txt"
 with open(nom_fitxer_entrada, 'r') as fitxer_entrada:
-    for linia in fitxer_entrada:
-        suma = suma + int(linia)
+    for linia in fitxer_entrada:
+        suma = suma + int(linia)
 ```
 
 Llegir i guardar en una llista
@@ -31,7 +31,7 @@ notes = []
 nom_fitxer_entrada = "notes.txt"
 with open(nom_fitxer_entrada, 'r') as fitxer_entrada:
     for linia in fitxer_entrada:
-        notes.append(int(linia))
+        notes.append(int(linia))
 print(notes)
 #[4, 5, 7, 4, 10]
 ```
@@ -41,7 +41,7 @@ Escriptura simple
 ```python
 nom_fitxer_sortida = "idees.txt"
 with open(nom_fitxer_sortida, 'w') as fitxer_sortida:
-    fitxer_sortida.write("Hola, món!\n")
+    fitxer_sortida.write("Hola, món!\n")
     # "\n", salt de línia
     fitxer_sortida.write(mitjana)
     fitxer_sortida.write("\n")
@@ -56,7 +56,7 @@ notes = [4, 5, 7, 4, 10]
 nom_fitxer_sortida = "notes.txt"
 with open(nom_fitxer_sortida, 'w') as fitxer_sortida:
     for nota in notes:
-        fitxer_sortida.write(nota)
+        fitxer_sortida.write(nota)
 ```
 
 ## Estructura de fitxers
