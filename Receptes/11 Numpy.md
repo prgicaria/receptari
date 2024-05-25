@@ -12,14 +12,15 @@ toc: true
 
 Llibreria matemàtica, només treballa amb valors numèrics.
 
-Importació:
+1. Índex
+
+{:toc}
+
+## Importació
 
 ```python
 import numpy as np
 ```
-
-1. Índex
-{:toc}
 
 ## Arranjaments, *Array*
 
