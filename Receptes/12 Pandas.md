@@ -10,7 +10,7 @@ toc: true
 
 # Pandas
 
-{% toc %}
+{:toc}
 
 ## Importació
 

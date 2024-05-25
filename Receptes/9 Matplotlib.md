@@ -5,14 +5,13 @@ nav_order: 9
 parent: Receptes
 author: Luis Rey
 date: 2024/5/25
-toc: true
 ---
 
 # Matplotlib
 
 ![Elasticitat](imatges/matplotlib.png)
 
-{% toc %}
+{:toc}
 
 ## 0 Importar la biblioteca
 

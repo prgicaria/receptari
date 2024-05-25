@@ -5,7 +5,6 @@ nav_order: 98
 parent: Receptes
 author: Luis Rey
 date: 2024/5/25
-toc: false
 ---
 
 # Validacions
