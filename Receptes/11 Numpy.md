@@ -18,7 +18,7 @@ Importació:
 import numpy as np
 ```
 
-{:toc}
+{{ content | toc }}
 
 ## Arranjaments, *Array*
 
