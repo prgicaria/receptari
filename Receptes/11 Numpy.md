@@ -1,14 +1,14 @@
 ---
-title: Biblioteques
+title: Numpy
 layout: default
-nav_order: 10
+nav_order: 11
 parent: Receptes
 author: Luis Rey
 date: 2024/5/25
 toc: true
 ---
 
-# 11 Numpy
+# Numpy
 
 Llibreria matemàtica, només treballa amb valors numèrics.
 

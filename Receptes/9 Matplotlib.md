@@ -1,5 +1,5 @@
 ---
-title: Biblioteques
+title: Matplotlib
 layout: default
 nav_order: 9
 parent: Receptes

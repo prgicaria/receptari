@@ -1,5 +1,5 @@
 ---
-title: Biblioteques
+title: Pandas
 layout: default
 nav_order: 10
 parent: Receptes
@@ -8,7 +8,7 @@ date: 2024/5/25
 toc: true
 ---
 
-# 12 Pandas
+# Pandas
 
 ## Importació
 

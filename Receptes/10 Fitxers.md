@@ -1,5 +1,5 @@
 ---
-title: Biblioteques
+title: Fitxers
 layout: default
 nav_order: 10
 parent: Receptes
@@ -8,7 +8,7 @@ date: 2024/5/25
 toc: false
 ---
 
-# 10 Fitxers
+# Fitxers
 
 Només treballarem amb fitxers de texts seqüencials.
 
