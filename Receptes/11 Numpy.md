@@ -18,8 +18,11 @@ Importació:
 import numpy as np
 ```
 
-## Arranjaments, *Array*
+1. Índex
 {:toc}
+
+## Arranjaments, *Array*
+
 
 Arrays d'una i dues dimensions:
 
