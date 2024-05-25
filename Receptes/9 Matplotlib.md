@@ -8,6 +8,7 @@ date: 2024/5/25
 ---
 
 # Matplotlib
+{: .no_toc }
 
 ![Elasticitat](imatges/matplotlib.png)
 

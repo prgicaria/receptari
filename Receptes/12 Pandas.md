@@ -9,6 +9,7 @@ toc: true
 ---
 
 # Pandas
+{: .no_toc }
 
 1. Índex
 {:toc}

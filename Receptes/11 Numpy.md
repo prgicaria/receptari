@@ -9,6 +9,7 @@ toc: true
 ---
 
 # Numpy
+{: .no_toc }
 
 Llibreria matemàtica, només treballa amb valors numèrics.
 
