@@ -1,7 +1,7 @@
 ---
 title: Pandas
 layout: default
-nav_order: 10
+nav_order: 12
 parent: Receptes
 author: Luis Rey
 date: 2024/5/25
