@@ -1,5 +1,5 @@
 ---
-title: Pandas
+title: Diagrames de flux
 layout: default
 nav_order: 97
 parent: Receptes
