@@ -17,3 +17,16 @@ nav_external_links:
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 math: mathjax
+
+ 
+collections:
+  receptes:
+  plantilles:
+
+just_the_docs:
+  collections:
+    receptes:
+      name: Receptes
+      nav_fold: true
+    plantilles:
+      name: Plantilles
