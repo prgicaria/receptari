@@ -1,14 +1,15 @@
 ---
-title: Diagrames de flux
+title: Sortida per terminal
 layout: default
-nav_order: 97
+nav_order: 2
 parent: Receptes
 author: Luis Rey
-date: 2024/5/26
-toc: false
+date: 2024/06/02
 ---
 
-# Diagrames de flux
+# Diagrama de flux
+
+- [Plantilla en PowerPoint](<imatges_plantilles/Plantilla diagrames de flux.pptx>)
 
 ## Elements del diagrama
 
@@ -22,6 +23,6 @@ Capçalera:
 Diagrama:
 
 - Símbols estàndard
-![Símbols diagrames de flux](<imatges/Símbols flux.png>)
+![Símbols diagrames de flux](<imatges_plantilles/Símbols flux.png>)
 - En una pàgina
 - Varies pàgines numerades
