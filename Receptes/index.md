@@ -1,10 +1,8 @@
 ---
 title: Receptes
-layout: default
+layout: home
 nav_order: 1
 has_children: true
 ---
 
 # Receptes de Python
-
-Recull de receptes.

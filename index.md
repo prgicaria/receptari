@@ -1,8 +1,8 @@
 ---
-title: Receptes de Python
+title: Inici
 layout: home
-nav_order: 1
-has_children: true
+nav_order: 0
+has_children: false
 ---
 
 # Receptes de Python
