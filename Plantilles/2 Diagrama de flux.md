@@ -1,8 +1,8 @@
 ---
-title: Sortida per terminal
+title: Diagrama de flux
 layout: default
 nav_order: 2
-parent: Receptes
+parent: Plantilles
 author: Luis Rey
 date: 2024/06/02
 ---
