@@ -3,6 +3,8 @@ title: Sortida per terminal
 layout: default
 nav_order: 1
 parent: Receptes
+author: Luis Rey
+date: 2024/06/02
 ---
 
 # Sortida per terminal

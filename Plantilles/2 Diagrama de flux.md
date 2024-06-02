@@ -2,6 +2,7 @@
 title: Diagrama de flux
 layout: page
 nav_order: 2
+parent: Plantilles
 author: Luis Rey
 date: 2024/06/02
 ---

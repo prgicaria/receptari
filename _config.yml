@@ -18,19 +18,3 @@ nav_external_links:
 
 math: mathjax
 
- 
-collections:
-  receptes:
-    permalink: "/:collection/:path/"
-    output: true
-  plantilles:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    receptes:
-      name: Receptes
-      nav_fold: true
-    plantilles:
-      name: Plantilles
