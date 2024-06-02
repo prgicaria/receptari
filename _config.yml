@@ -21,7 +21,11 @@ math: mathjax
  
 collections:
   receptes:
+    permalink: "/:collection/:path/"
+    output: true
   plantilles:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
