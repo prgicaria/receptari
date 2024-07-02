@@ -62,13 +62,14 @@ with open(nom_fitxer_sortida, 'w') as fitxer_sortida:
 
 En el terminal sempre ens hem de fixar en el que ens indica el símbol del sistema o *prompt*.
 
-En Windows sempre porta la ruta sencera acabada amb el símbol ">" i la separació entre directoris és una contrabarra "\\":
+En Windows la ruta sencera per accedir a un fitxer comença amb el nom del disc, *"C:"* acabada amb el símbol *">"* i la separació entre directoris és una contrabarra "\\":
 
 ```txt
 C:\Users\professor\Institut\Programació BATX>
 ```
 
-En Unix/Linux/Mac podem veure la ruta sencera sense cap símbol afegit:
+Python utilitza les rutes Unix (com a Linux i Mac OS)
+i podem veure la ruta sencera sense cap símbol afegit:
 
 ```txt
 /home/professor/Institut/Programació BATX
