@@ -1,7 +1,7 @@
 ---
 title: Llaços While i For
 layout: default
-nav_order: 6
+nav_order: 5
 parent: Receptes
 ---
 

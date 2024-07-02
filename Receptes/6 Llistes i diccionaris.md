@@ -1,12 +1,14 @@
 ---
-title: Llistes
+title: Llistes i diccionaris
 layout: default
 nav_order: 6
 parent: Receptes
 author: Luis Rey
 ---
 
-# Llistes
+# Llistes i diccionaris
+
+## Llistes
 
 Creació:
 
@@ -37,7 +39,7 @@ Iteració:
 x = [-3, 8.5, 5, 3.5]
 suma = 0
 for valor in x:
-    suma = suma + valor
+    suma = suma + valor
 print(suma)
 ## Resultat: 14.0
 ```
@@ -95,4 +97,49 @@ valors_text = entrada2.split(',')
 valors_num = list(map(float, valors_text))
 print(valors_num)
 # Resultat [2, 4, -3, 4.3, 9.1]
+```
+
+## Diccionaris
+
+Definició
+
+```python
+notes = {'mates': 6.4,
+         'catala': 5.1,
+         'informatica': 10.0
+         }
+```
+
+Iteració
+
+```python
+suma = 0
+for clau in notes:
+    suma = suma + notes[clau]
+print(suma)
+# 21.5
+```
+
+Ordenar
+
+```python
+notes_ordenades = dict(sorted(notes.items()))
+print(notes_ordenades)
+# {'catala': 5.1, 'informatica': 10.0, 'mates': 6.4}
+notes_ordenades = dict(sorted(notes.items(),
+                              key=lambda x: x[1])
+                              )
+print(notes_ordenades)
+#{'catala': 5.1, 'mates': 6.4, 'informatica': 10.0}
+```
+
+Diccionari buit i afegir element
+
+```python
+diccionari = {}
+diccionari['Nom'] = 'Pere'
+diccionari['Cognoms'] = 'García Ramon'
+diccionari['Càrrec'] = 'Coordinadora'
+print(diccionari)
+# {'Nom': 'Pere', 'Cognoms': 'García Ramon', 'Càrrec': 'Coordinadora'}
 ```
