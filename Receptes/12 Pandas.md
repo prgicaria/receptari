@@ -213,3 +213,23 @@ freq = notes["Nota"=="IA1"].value_counts()
 nota = freq_materia.index
 eixos.bar(nota, freq_materia, color='gold')
 ```
+
+## Treballar amb dates
+
+Convertir una columna al format de dates i ordenar:
+
+```py
+emb['Dia'] = pd.to_datetime(emb['Dia'], dayfirst=True)
+emb = emb.sort_values(["Dia"])
+```
+
+Obtenir diferents parts de la data:
+
+```py
+emb['Dia'].dt.day                   # dia del mes
+emb['Dia'].dt.weekday               # dia de la setmana
+emb['Dia'].dt.dayofyear             # dia de l'any
+emb['Dia'].dt.isocalendar().week    # setmana de l'any
+emb['Dia'].dt.month                 # mes
+emb['Dia'].dt.year                  # any
+```
