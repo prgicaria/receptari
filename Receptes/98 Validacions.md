@@ -23,7 +23,7 @@ Moltes vegades és convenient utilitzar les dues.
 ### Com corregir
 
 1. Demanar una nova entrada
-2. Assignar un valor per defecte. Perillós.
+2. Assignar un valor per defecte. Perillós!
 
 ### Com avisar de l'error
 
@@ -40,7 +40,7 @@ Moltes vegades és convenient utilitzar les dues.
 
 ### No validar
 
-Suposem que l'entrada és correcta. Ja saltarà si hi ha algun programa...
+Suposem que l'entrada és correcta. Ja saltarà si hi ha algun problema...
 
 Fàcil i perillós. Només per als nostres programes. En anglès *quick and dirty*.
 
@@ -48,7 +48,7 @@ Fàcil i perillós. Només per als nostres programes. En anglès *quick and dirt
 
 Es fan les comprovacions oportunes i després s'actua per corregir l'error dintre del mateix programa/funció.
 
-Interessant si nosaltres control·lem tot el programa. En la major part de programes de Python no paga la pena.
+Interessant si nosaltres control·lem tot el programa o és per algú altre. En la major part de programes de Python no paga la pena.
 
 ### Validar i actuar
 
