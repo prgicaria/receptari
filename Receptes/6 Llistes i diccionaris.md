@@ -105,9 +105,9 @@ Definició
 
 ```python
 notes = {'mates': 6.4,
-         'catala': 5.1,
-         'informatica': 10.0
-         }
+         'catala': 5.1,
+         'informatica': 10.0
+         }
 ```
 
 Iteració
@@ -115,7 +115,7 @@ Iteració
 ```python
 suma = 0
 for clau in notes:
-    suma = suma + notes[clau]
+    suma = suma + notes[clau]
 print(suma)
 # 21.5
 ```
