@@ -34,7 +34,7 @@ valor = float(input("Missatge que es mostra en pantalla"))
 Entrada d'una llista de nombres amb decimals separats per comes:
 
 ```python
-entrada = input("Introduïu una mostra de números, separats per comes: ")
+entrada = input("Introduïu una mostra de nombres, separats per comes: ")
 valors_text = entrada.split(",")
 valors_num = list(map(float, valors_text))
 ```
@@ -47,7 +47,6 @@ Es demana l'entrada d'un nombre i envia el nombre entrat a la funció *afegir*. 
 num = ""
 while num != ".":
     num = input("Entra un valor, utilitza un . per acabar: ")
-    
     # Afegir codi a repetir
 ```
 
