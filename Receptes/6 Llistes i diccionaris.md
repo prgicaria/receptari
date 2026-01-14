@@ -33,6 +33,23 @@ print(nombres[1])
 # Resultat 2.0
 ```
 
+Darrer element d'una llista
+
+```python
+nombres = ['zero', 2.0, 1, '3', 4]
+print(nombres[-1])
+# Resultat 4
+```
+
+Tots els elements excepte el darrer
+Darrer element d'una llista
+
+```python
+nombres = ['zero', 2.0, 1, '3', 4]
+print(nombres[:-1])
+# Resultat ['zero', 2.0, 1, '3']
+```
+
 Iteració:
 
 ```python
@@ -105,9 +122,9 @@ Definició
 
 ```python
 notes = {'mates': 6.4,
-         'catala': 5.1,
-         'informatica': 10.0
-         }
+        'catala': 5.1,
+        'informatica': 10.0
+        }
 ```
 
 Iteració
@@ -115,7 +132,7 @@ Iteració
 ```python
 suma = 0
 for clau in notes:
-    suma = suma + notes[clau]
+    suma = suma + notes[clau]
 print(suma)
 # 21.5
 ```
